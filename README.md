@@ -1,4 +1,12 @@
 # City-Bank
+### Outward Remittance Workflow diagram
+![image](https://github.com/Isratjahan1790/City-Bank/assets/112747904/e2f523ec-faa6-4cdd-aea0-f25f1c2ebc4a)
+
+### Inward Remittance Workflow
+![image](https://github.com/Isratjahan1790/City-Bank/assets/112747904/3de2bb82-736f-48bc-8121-367476348b81)
+
+
+
 ## 💫 About Me:
 <img align="right" alt="Coding" width="300" src="https://i.imgur.com/tN5CW8d.gif">
 
