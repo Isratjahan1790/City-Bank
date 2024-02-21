@@ -1,4 +1,6 @@
 # City-Bank
+![image](https://github.com/Isratjahan1790/City-Bank/assets/112747904/16972188-cb02-4cbf-b7ca-b980fd34863c)
+
 ### Outward Remittance Workflow diagram
 ![image](https://github.com/Isratjahan1790/City-Bank/assets/112747904/e2f523ec-faa6-4cdd-aea0-f25f1c2ebc4a)
 
