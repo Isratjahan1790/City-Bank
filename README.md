@@ -1,5 +1,6 @@
 # City-Bank
-![image](https://github.com/Isratjahan1790/City-Bank/assets/112747904/16972188-cb02-4cbf-b7ca-b980fd34863c)
+![image](https://github.com/Isratjahan1790/City-Bank/assets/112747904/33330b1e-a6c0-4bac-a2f4-e8b528e5fba0)
+#### 🌱 City Bank PLC is a Bangladeshi private commercial bank headquartered in Dhaka. I have tested remittance module of this bank. 
 
 ### Outward Remittance Workflow diagram
 ![image](https://github.com/Isratjahan1790/City-Bank/assets/112747904/e2f523ec-faa6-4cdd-aea0-f25f1c2ebc4a)
